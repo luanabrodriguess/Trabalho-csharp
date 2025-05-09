@@ -1,7 +1,9 @@
 # Trabalho-csharp
-
 Projeto de Exercícios em C#
-ALUNOS PARTICIPANTES DA AVALIAÇÃO: João Henrique Weigel Falce (https://github.com/JoaoFalce); Salomao Konjunski (https://github.com/SalomaoKonjunski) Luana de Brito Rodrigues (https://github.com/luanabrodriguess)
+ALUNOS PARTICIPANTES DA AVALIAÇÃO:
+João Henrique Weigel Falce (https://github.com/JoaoFalce);
+Salomao Konjunski (https://github.com/SalomaoKonjunski);
+Luana de Brito Rodrigues (https://github.com/luanabrodriguess);
 
 Este repositório contém uma coleção de exercícios realizados em C#. Cada exercício aborda um conceito diferente da programação em C#, como manipulação de strings, controle de fluxo, cálculos, etc.
 
